@@ -14,7 +14,7 @@
     "url": "http://www.robotikabrno.cz",
     "maintainer": true
   },
-  "version": "1.1.1",
+  "version": "1.1.2-kc",
   "frameworks": "arduino",
   "platforms": "espressif32"
 }
